@@ -1,2 +1,2 @@
 # Junior
-An AI.
+An AI clone.
