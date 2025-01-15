@@ -1,2 +1,2 @@
 # Junior
-A multimodal AI.
+A multimodal AI model.
