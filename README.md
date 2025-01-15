@@ -1,2 +1,2 @@
 # Junior
-An AI clone.
+A multimodal AI.
